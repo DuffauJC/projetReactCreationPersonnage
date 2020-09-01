@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projetReactCreationPersonnage/static/css/main.2d213df7.chunk.css",
+    "main.js": "/projetReactCreationPersonnage/static/js/main.eb44b281.chunk.js",
+    "main.js.map": "/projetReactCreationPersonnage/static/js/main.eb44b281.chunk.js.map",
+    "runtime-main.js": "/projetReactCreationPersonnage/static/js/runtime-main.839bbfb9.js",
+    "runtime-main.js.map": "/projetReactCreationPersonnage/static/js/runtime-main.839bbfb9.js.map",
+    "static/js/2.6d5ddb29.chunk.js": "/projetReactCreationPersonnage/static/js/2.6d5ddb29.chunk.js",
+    "static/js/2.6d5ddb29.chunk.js.map": "/projetReactCreationPersonnage/static/js/2.6d5ddb29.chunk.js.map",
+    "index.html": "/projetReactCreationPersonnage/index.html",
+    "precache-manifest.d7e18ffa75f9398edde0b62f152bfcf1.js": "/projetReactCreationPersonnage/precache-manifest.d7e18ffa75f9398edde0b62f152bfcf1.js",
+    "service-worker.js": "/projetReactCreationPersonnage/service-worker.js",
+    "static/css/main.2d213df7.chunk.css.map": "/projetReactCreationPersonnage/static/css/main.2d213df7.chunk.css.map",
+    "static/js/2.6d5ddb29.chunk.js.LICENSE.txt": "/projetReactCreationPersonnage/static/js/2.6d5ddb29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.839bbfb9.js",
+    "static/js/2.6d5ddb29.chunk.js",
+    "static/css/main.2d213df7.chunk.css",
+    "static/js/main.eb44b281.chunk.js"
+  ]
+}
